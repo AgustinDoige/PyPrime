@@ -1,6 +1,2 @@
-"""
-Module for use of primes, aimed for efficiency
+from math import sqrt
 
-
-"""
-pass
